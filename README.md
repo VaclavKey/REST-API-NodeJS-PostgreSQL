@@ -1,1 +1,1 @@
-# Simple realisation of REST API using NodeJS(Express) & PostgreSQL
+# A simple REST API implementation using Node.js (Express) and PostgreSQL.
